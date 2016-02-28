@@ -1,0 +1,27 @@
+_repo: Memoirs-of-Lady-Fanshawe-Wife-of-Sir-Richard-Fanshawe-Bt-Ambassador-from-Charles-II-to-the-Cou__6064
+creator:
+  author:
+    agent_name: Fanshawe, Anne Harrison, Lady
+    birthdate: 1625
+    deathdate: 1679
+    gutenberg_agent_id: '1927'
+    url: http://www.gutenberg.org/2009/agents/1927
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Fanshawe, Anne Harrison, Lady, 1625-1680'
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Sources'
+- !lcsh 'Portugal -- Court and courtiers'
+- !lcsh 'Spain -- Court and courtiers'
+- !lcsh 'Fanshawe, Richard, 1608-1666'
+title: "Memoirs of Lady Fanshawe\r\nWife of Sir Richard Fanshawe, Bt., Ambassador\
+  \ from Charles II to the Courts of Portugal and Madrid."
+url: http://www.gutenberg.org/ebooks/6064
