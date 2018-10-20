@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Lady-Fanshawe-Wife-of-Sir-Richard-Fanshawe-Bt-Ambassador-from-Charles-II-to-the-Cou__6064
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Portugal -- Court and courtiers'
 - !lcsh 'Spain -- Court and courtiers'
 - !lcsh 'Fanshawe, Richard, 1608-1666'
+- GITenberg
 title: "Memoirs of Lady Fanshawe\r\nWife of Sir Richard Fanshawe, Bt., Ambassador\
   \ from Charles II to the Courts of Portugal and Madrid."
 url: http://www.gutenberg.org/ebooks/6064
